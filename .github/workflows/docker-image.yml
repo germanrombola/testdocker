@@ -31,7 +31,7 @@ jobs:
     
     - name: push docker image
       run: |
-        docker push germanrombola/github-graph:0.0.2 .
+        docker push germanrombola/github-graph:0.0.2
       
     
 #     - name: Build the Docker image
